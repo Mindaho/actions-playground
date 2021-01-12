@@ -1,9 +1,10 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"os"
+)
 
 func main() {
 	fmt.Println("Github Actions")
-	random text
-	return
 }
